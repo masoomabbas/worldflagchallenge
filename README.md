@@ -1,0 +1,38 @@
+# Privacy Policy for World Flag Challenge
+
+**Last Updated:** [01-04-2026]
+
+World Flag Challenge is a simple quiz game. We respect your privacy and keep things very simple.
+
+## 1. Information Collection
+
+We do **not collect any personal information** from users.
+
+* No login required
+* No name, email, or phone number collected
+* No personal data stored
+
+## 2. App Usage
+
+The app may store basic game progress (like levels or scores) on your device only. This data is **not shared online**.
+
+## 3. Ads (If Applicable)
+
+If the app shows ads, third-party ad services (like Google AdMob) may collect limited non-personal data to show relevant ads.
+
+## 4. Children’s Privacy
+
+This app is safe for all ages. We do not knowingly collect any data from children.
+
+## 5. Changes to Policy
+
+We may update this policy if needed. Any changes will be updated here.
+
+## 6. Contact
+
+If you have any questions, contact us at:
+**Email:** [abbas_abid69@yahoo.com]
+
+---
+
+**By using World Flag Challenge, you agree to this Privacy Policy.**
